@@ -13,4 +13,10 @@
         android:layout_height="200dp"
         class="com.asianaidt.fragment_20220518.Fragments.FirstFragment"/>
 
+    <fragment
+        android:id="@+id/secondFlag"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        class="com.asianaidt.fragment_20220518.Fragments.SecondFragment"/>
+
 </LinearLayout>
