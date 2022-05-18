@@ -27,7 +27,6 @@ class FirstFragment : Fragment() {
         btnLog.setOnClickListener {
             Log.d("첫 프래그먼트","프래그먼트에서의 로그")
        }
-
         super.onActivityCreated(savedInstanceState)
     }
 
